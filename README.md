@@ -118,3 +118,7 @@ All my projects are open source, so you can use them for your own projects, but 
 
 I will add more to my GitHub portfolio as I learn, but for a while it will be quite empty.
 Watch out for when I add more projects!
+
+<div align="center">
+    ![snake gif](https://github.com/CherryDev-Arch/CherryDev-Arch/blob/output/github-snake-dark.svg)
+</div>
